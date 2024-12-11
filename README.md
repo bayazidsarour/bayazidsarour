@@ -4,7 +4,7 @@
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/bayazidsarour/contributions?format=svg&private=false)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=bayazidsarour)  
+
 
 
 
