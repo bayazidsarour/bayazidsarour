@@ -1,8 +1,9 @@
 # Hi...I'm Bayazid Sarour
 🌱 I’m currently learning MERN stack Development<br>
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bayazidsarour&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bayazidsarour&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=bayazidsarour&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bayazidsarour&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
